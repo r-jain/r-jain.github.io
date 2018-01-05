@@ -1,4 +1,4 @@
-# [Neuritive - Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/)
+# [Neuritive - Coming Soon](www.neuritive.com)
 
 [Neuritive](www.neuritive.com) is a simple coming soon theme for [Bootstrap](http://getbootstrap.com/). This theme features a background video with a mobile background image fallback.
 
